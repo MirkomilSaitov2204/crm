@@ -185,7 +185,7 @@ return [
         /*
          * Package Service Providers...
          */
-
+//        \Spatie\LaravelData\LaravelDataServiceProvider::class,
         /*
          * Application Service Providers...
          */
